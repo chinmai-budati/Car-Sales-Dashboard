@@ -78,6 +78,8 @@ Growth Tracking: Immediate visibility into YoY growth helps assess if sales targ
 Inventory Optimization: "Sales by Body Style" helps in understanding demand, suggesting more inventory is needed for SUVs vs. other categories.
 Dealer Performance: The map visualization highlights high-performing regions, guiding resource allocation and marketing focus.
 
-#### 6. Screenshot:
+#### 6. Screenshots:
+
 ![Dashboard Preview](https://github.com/chinmai-budati/Car-Sales-Dashboard/blob/main/Images/Overview%20Page.png)
+
 ![Dashboard Preview](https://github.com/chinmai-budati/Car-Sales-Dashboard/blob/main/Images/Details%20Page.png)
